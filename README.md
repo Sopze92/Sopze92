@@ -7,16 +7,16 @@
 <p align="center" style="margin-top:10px;">
   <img width=32px src="./assets/ln/Csharp.svg" alt="C#">
   <img width=32px src="./assets/ln/Cpp.svg" alt="C++">
-  <img width=32px src="./assets/ln/java.svg" alt="Java">
-  <img width=32px src="./assets/ln/js.svg" alt="Javascript">
-  <img width=32px src="./assets/ln/html.svg" alt="HTML">
-  <img width=32px src="./assets/ln/css.svg" alt="CSS">
-  <img width=32px src="./assets/ln/python.svg" alt="Python">
-  <img width=32px src="./assets/ln/lua.svg" alt="Lua">
+  <img width=32px src="./assets/ln/Java.svg" alt="Java">
+  <img width=32px src="./assets/ln/JS.svg" alt="Javascript">
+  <img width=32px src="./assets/ln/HTML.svg" alt="HTML">
+  <img width=32px src="./assets/ln/CSS.svg" alt="CSS">
+  <img width=32px src="./assets/ln/Python.svg" alt="Python">
+  <img width=32px src="./assets/ln/Lua.svg" alt="Lua">
   <span style="padding-left:20px"></span>
-  <img width=32px src="./assets/ln/glsl.svg" alt="GLSL">
-  <img width=32px src="./assets/ln/directx.svg" alt="DirectX">
-  <img width=32px src="./assets/ln/snes.svg" alt="65C816 ASM">
+  <img width=32px src="./assets/ln/GLSL.svg" alt="GLSL">
+  <img width=32px src="./assets/ln/DirectX.svg" alt="DirectX">
+  <img width=32px src="./assets/ln/SNES.svg" alt="65C816 ASM">
 </p>
 <!-- <p align="center" style="margin-top:10px;">
   <img width=32px src="./assets/ap/illustrator.svg" alt="Illustrator">
@@ -36,16 +36,16 @@
   <div style="width:100%; margin-left: 15%">
     <p align="center" style="margin-bottom:8px">Currently enhancing:</p>
     <p align="center">
-      <img width=24px src="./assets/ln/html.svg" alt="HTML">
-      <img width=24px src="./assets/ln/css.svg" alt="CSS">
-      <img width=24px src="./assets/ln/js.svg" alt="Javascript">
-      <img width=24px src="./assets/ln/python.svg" alt="Python">
+      <img width=24px src="./assets/ln/HTML.svg" alt="HTML">
+      <img width=24px src="./assets/ln/CSS.svg" alt="CSS">
+      <img width=24px src="./assets/ln/JS.svg" alt="Javascript">
+      <img width=24px src="./assets/ln/Python.svg" alt="Python">
     </p>
   </div>
   <div style="width:100%; margin-right: 15%">
     <p align="center" style="margin-bottom:8px">While learning:</p>
     <p align="center">
-      <img width=34px src="./assets/tx/bootstrap.svg" alt="Bootstrap">
+      <img width=34px src="./assets/tx/Bootstrap.svg" alt="Bootstrap">
       <img width=28px src="./assets/tx/react.svg" alt="React">
       <img width=44px src="./assets/ln/php.svg" alt="PHP">
       <img width=48px src="./assets/ln/sql.svg" alt="SQL">
