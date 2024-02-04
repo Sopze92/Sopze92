@@ -28,12 +28,6 @@
 
 <p align="center"><b>- I'm just a PC enthusiast who has been diving into the inners of the computer world since the age of 3 -</b></p>
 
-<h3 align="center">About me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergiodepa" target="_blank"><img width=64px src="./assets/sc/linkedin.svg" alt="Linkedin"></a>
-  <a href="mailto:sergiodepa92@gmail.com" target="_blank"><img width=64px src="./assets/sc/gmail.svg" alt="Gmail"></a>
-</p>
-
 <p align="center">Currently studying <b>4Geeks Academy's Full-Stack Bootcamp</b>, enhancing and/or learning:</p>
 <p align="center">
   <img width=24px src="./assets/ln/HTML.svg" alt="HTML">
