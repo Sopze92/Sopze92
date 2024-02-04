@@ -26,19 +26,15 @@
   <img width=32px src="./assets/ge/unreal.svg" alt="Unreal Engine">
   <img width=32px src="./assets/ge/unity.svg" alt="Unity">
 </p> -->
+
 <p align="center"><b>- I'm just a PC enthusiast who has been diving into the inners of the computer world since the age of 3 -</b></p>
-<span>
-<p align="center">Currently enhancing:</p>
+
+<p align="center">Currently studying <b>4Geeks Academy's Full-Stack Bootcamp</b>, enhancing and/or learning:</p>
 <p align="center">
   <img width=24px src="./assets/ln/HTML.svg" alt="HTML">
   <img width=24px src="./assets/ln/CSS.svg" alt="CSS">
   <img width=24px src="./assets/ln/JS.svg" alt="Javascript">
   <img width=24px src="./assets/ln/Python.svg" alt="Python">
-</p>
-</span>
-
-<p align="center">While learning:</p>
-<p align="center">
   <img width=34px src="./assets/tx/Bootstrap.svg" alt="Bootstrap">
   <img width=28px src="./assets/tx/react.svg" alt="React">
   <img width=44px src="./assets/ln/php.svg" alt="PHP">
