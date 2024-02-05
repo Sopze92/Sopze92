@@ -1,5 +1,4 @@
-<p align="center"><img width=70% src="./assets/sopze.svg" alt="SOPZE"></p>
-<h2 align="center"><b>There's Always a Way</b></h2>
+<p align="center"><img width=70% src="./assets/full-logo.svg" alt="SOPZE"></p>
 <p align="center">
   <img width=40px src="./assets/ln/Csharp.svg" alt="C#">
   <img width=40px src="./assets/ln/Cpp.svg" alt="C++">
